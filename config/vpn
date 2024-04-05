@@ -1,0 +1,11 @@
+host =
+port =
+username =
+password =
+trusted-cert =
+ca-file = /etc/openfortivpn/ca.cert
+user-cert = /etc/openfortivpn/user.cert
+user-key = /etc/openfortivpn/user.key
+set-dns=1
+set-routes=1
+persistent=5
